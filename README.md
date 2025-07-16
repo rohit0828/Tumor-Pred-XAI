@@ -49,7 +49,7 @@ Each subfolder contains MRI images representing its respective class.
 
 ## 🖼️ Sample Output (Grad-CAM)
 
-![Grad-CAM Example](https://github.com/rohit8082/Tumor-Pred-XAI/blob/main/gradecam_git_project_otp.png?raw=true)
+![Grad-CAM Example](https://github.com/rohit0828/Tumor-Pred-XAI/blob/main/gradecam_git_project_otp.png)
 
 ---
 
